@@ -9,7 +9,7 @@ Prerequisites
 * Internet connection for dependencies
 Steps to Run
 1. Clone the repository
-2. Open the project in Android Studio.
+2. Open(Manag folder inside Manga Folder) the project in Android Studio.
 3. Sync gradle by clicking File → Sync Project with gradle Files.
 4. Run the app using Run Command 
 
