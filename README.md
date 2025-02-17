@@ -3,7 +3,7 @@
 1. Setup and Running the Application:
 
 Prerequisites
-* Android Studio.
+* Android Studio(Hedgehog |2023.1.1RC 3
 * Java/Kotlin Development Kit (JDK) installed
 * A device or emulator.
 * Internet connection for dependencies
